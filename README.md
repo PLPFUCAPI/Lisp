@@ -13,7 +13,7 @@ clisp arquivo.lisp
 ```
 clisp -c arquivo.lisp
 ```
-O resultado da compilação gera o ```arquivo.fas``` que pode ser executado chamanndo o arquivo diretamente:
+O resultado da compilação gera o ```arquivo.fas``` que pode ser executado chamando o arquivo diretamente:
 ```
 arquivos.fas
 ```
