@@ -12,6 +12,7 @@ clisp arquivo.lisp
 * Compilar um arquivo *.lisp
 ```
 clisp -c arquivo.lisp
+Para compilar um arquivo .lsp é necessário salvar uma cópia do programa no formato .o
 ```
 O resultado da compilação gera o ```arquivo.fas``` que pode ser executado chamando o arquivo diretamente:
 ```
