@@ -18,3 +18,6 @@ O resultado da compilação gera o ```arquivo.fas``` que pode ser executado cham
 ```
 arquivos.fas
 ```
+
+* Documento do trabalho
+[Google Docs](https://docs.google.com/document/d/1xGiWqWvVCMKQaQXYIKn-iTQ4RQOaapr0vBvuAMp8tCg/edit?usp=sharing)
